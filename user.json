@@ -1,3 +1,6 @@
-{
-  "users": []
-}
+[  {
+    "username": "lin",
+    "password": "1",
+    "created_at": "2025-10-07T12:15:38.131Z"
+  }
+]
